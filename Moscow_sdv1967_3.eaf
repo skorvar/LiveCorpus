@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-12-09T16:05:22+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/skoro/Desktop/кили/Moscow_sdv1967_3.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Moscow_sdv1967_3.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:201b6f1b-8a12-4575-a823-5f186aae1307</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">35</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="29001"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="31317"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="31914"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="34764"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="36104"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="40294"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="42324"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="43994"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="47014"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="49184"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="49194"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="50024"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="54014"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="54594"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="55689"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="58099"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="58109"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="58789"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="61935"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="71090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="76830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="79872"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="79886"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="80703"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="86829"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="90054"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="sdv@" TIER_ID="SDV@speech">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>ну его увольнение</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>никак не связано с тем, что он ходил в парк аттракционов </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>связано? его увольнение не связано с тем, что он ходил в парк аттракционов</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>он там вел себя неподобающим образом</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>он</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>встретил там кого-нибудь, кого не должен был встречать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>он сам не работает.. не работал на аттракционах</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="utterance-acc" PARENT_REF="SDV@speech" PARTICIPANT="sdv@" TIER_ID="SDV@acc">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>ну ег'о увольн'ение</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>ник'ак не свя'зано с тем, что он ход'ил в парк аттракци'онов </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>св'язано? его увольн'ение н'е св'язано с тем, что он ход'ил в парк аттракци'онов</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>он там вел себя неподоб'ающим 'образом</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>встр'етил там ког'о-ниб'удь, ког'о не д'олжен был встреч'ать</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>он сам не раб'отает.. не раб'отал на аттракци'онах</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="utterance-type" PARENT_REF="SDV@speech" PARTICIPANT="sdv@" TIER_ID="SDV@utipe">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>narrative</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>question</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>question</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>question</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>narrative</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>question</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>question</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="svd@" TIER_ID="SVD@speech">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>нет, оно связяно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>нет</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>нет</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>ты можешь задавать вопросы, которые помогут тебе угадать, на каком аттракционе он катался там, где он работал, и как это все связано</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>нет</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>ты можешь рассуждать вслух, это будет даже лучше</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="utterance-acc" PARENT_REF="SVD@speech" PARTICIPANT="svd@" TIER_ID="SVD@acc">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>нет, он'о связяно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>ты м'ожешь задав'ать вопр'осы, кот'орые пом'огут теб'е угад'ать, на как'ом аттракци'оне он кат'ался там, где он раб'отал, и как 'это все св'язано</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>ты м'ожешь рассужд'ать вслух, 'это б'удет д'аже л'учше</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="utterance-type" PARENT_REF="SVD@speech" PARTICIPANT="svd@" TIER_ID="SVD@utipe">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>narrative</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>narrative</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>narrative</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>narrative</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>narrative</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>narrative</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance-acc" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance-type" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
